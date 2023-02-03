@@ -51,7 +51,7 @@ if (talleres >= 1 && talleres <= 4);
 else(
     alert("¿Puede ser que te hayas equivocado?")
 );
-
+let mensajeFinal = alert("Muchas gracias por tu compra")
 
 
 
